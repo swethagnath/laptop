@@ -1,0 +1,4 @@
+sudo npm install nodemon -g
+
+type nodemon in the terminal u can see the server opens up
+
